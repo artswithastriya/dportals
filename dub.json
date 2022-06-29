@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Nefo Fortressia"
+	],
+	"copyright": "Copyright © 2022, Nefo Fortressia",
+	"dependencies": {
+		"ddbus": "~>2.3.0"
+	},
+	"description": "A lovely library for accessing Xdg Desktop Portal",
+	"license": "MPLv2",
+	"name": "dportals"
+}
